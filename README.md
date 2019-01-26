@@ -5,9 +5,9 @@
 ### When a tract import is in progress wrap in \` and when it is complete wrap the line with double tilde \~\~ to cross it out 
 
 
- * ### ~~000107 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_000107.geojson)~~ - EH
+ * ### 000107 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_000107.geojson)
 
- * ### `000108 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_000108.geojson)` 
+ * ### 000108 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_000108.geojson) 
 
  * ### 000109 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_000109.geojson) 
 
