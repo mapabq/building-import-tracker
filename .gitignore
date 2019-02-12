@@ -2,3 +2,4 @@
 Pipfile
 main.py
 blocks_wgs84.geojson
+.DS_Store
