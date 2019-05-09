@@ -333,4 +333,4 @@
 
  * ### 940500 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_940500.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_940500.osm)  - 804 features
 
- * ### 940600 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_940600.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_940600.osm)  - 986 features
+ * ### RS 940600 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_940600.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_940600.osm)  - 986 features
