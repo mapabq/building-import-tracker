@@ -41,7 +41,7 @@
 
  * ### ~~RB 000124 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_000124.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_000124.osm)  - 584 features~~
 
- * ### ~~RB 000125 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_000125.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_000125.osm)  - 733 features
+ * ### ~~RB 000125 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_000125.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_000125.osm)  - 733 features~
 
  * ### ~~RB 000126 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_000126.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_000126.osm)  - 796 features~~
 
