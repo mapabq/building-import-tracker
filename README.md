@@ -269,9 +269,9 @@
 
  * ### 004739 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004739.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004739.osm)  - 1560 features
 
- * ### 004740 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004740.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004740.osm)  - 2194 features
+ * ### ~~RS 004740 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004740.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004740.osm)  - 2194 features~~
 
- * ### 004741 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004741.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004741.osm)  - 1011 features
+ * ### ~~RS 004741 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004741.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004741.osm)  - 1011 features~~
 
  * ### ~~RS 004742 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004742.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004742.osm)  - 765 features~~
 
@@ -283,7 +283,7 @@
 
  * ### 004746 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004746.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004746.osm)  - 2933 features
 
- * ### 004747 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004747.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004747.osm)  - 1164 features
+ * ### ~~RS 004747 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004747.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004747.osm)  - 1164 features~~
 
  * ### ~~RS 004748 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004748.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004748.osm)  - 2178 features~~
 
