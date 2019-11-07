@@ -221,11 +221,11 @@
 
  * ### ~~RB 004502 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004502.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004502.osm)  - 1214 features~~
 
- * ### 004602 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004602.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004602.osm)  - 399 features
+ * ### ~~RB 004602 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004602.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004602.osm)  - 399 features~~
 
- * ### 004603 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004603.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004603.osm)  - 1463 features
+ * ### ~~RB 004603 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004603.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004603.osm)  - 1463 features~~
 
- * ### 004604 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004604.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004604.osm)  - 1993 features
+ * ### ~~RB 004604 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004604.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004604.osm)  - 1993 features~~
 
  * ### 004712 [[view]](https://github.com/mapabq/building-import-tracker/blob/master/geojson/tract_004712.geojson)[[download]](https://s3-us-west-2.amazonaws.com/mababq-data/tract_004712.osm)  - 1333 features
 
